@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.appengine.java8.HelloAppEngineTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-10-02T04:22:57" hostname="nebuchadnezzar.mtv.corp.google.com" time="0.175">
+  <properties/>
+  <testcase name="helloInfoTest" classname="com.example.appengine.java8.HelloAppEngineTest" time="0.17"/>
+  <testcase name="doGetWritesResponse" classname="com.example.appengine.java8.HelloAppEngineTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
